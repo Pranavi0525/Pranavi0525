@@ -8,7 +8,7 @@ B.Tech Data Science & AI · Sai University, Chennai · CGPA 8.84
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranavi%20Devulapalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavi-devulapalli-359ba2281/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pranavi0525-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranavi0525)
-![Status](https://img.shields.io/badge/Open%20to-Internships%20from%20Jan%202027-2ea44f?style=flat-square)
+
 
 </div>
 
@@ -18,8 +18,7 @@ B.Tech Data Science & AI · Sai University, Chennai · CGPA 8.84
 
 I'm a final-year Data Science & AI student who likes the part of machine learning that comes after the notebook: serving a model behind an API, explaining each prediction, auditing it for fairness, and keeping a record of every decision. My focus is **credit risk and fintech**, and I'm increasingly drawn to **agentic AI** systems.
 
-I've interned at **CareEdge Analytics** (climate risk for credit models) and **Britannia Industries** (analytics and automation). I'm looking for a **data science / ML internship from January 2027**, ideally in credit, risk or fintech.
-
+I've interned at **CareEdge Analytics** (climate risk for credit models) and **Britannia Industries** (analytics and automation).
 ---
 
 ## Experience
@@ -77,8 +76,6 @@ An XGBoost loan-default predictor with an applicant view (instant risk result, a
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
@@ -89,20 +86,14 @@ An XGBoost loan-default predictor with an applicant view (instant risk result, a
 | --- | --- |
 | **ML & modelling** | scikit-learn, XGBoost, SHAP, MLflow, imbalanced-data handling, credit scorecard metrics (AUC, KS, PR-AUC) |
 | **Responsible AI** | Explainability, fairness auditing (ECOA 80% rule), audit trails |
-| **Backend & data** | FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Kafka, Redis |
+| **Backend & data** | FastAPI, PostgreSQL, SQLAlchemy, Pydantic,  |
 | **Agentic AI** | LangChain, LangGraph, MCP, Gemini, Groq / LLaMA |
 | **Analytics** | Power BI, SAP data, Pandas, geospatial pipelines |
 | **Deployment** | Docker, Docker Compose, Streamlit Cloud, Vercel, Render |
 
 ---
 
-## Domain interests
 
-- **Credit risk modelling:** PD/LGD, rating methodologies (CAMEL-style frameworks for Urban Cooperative Banks), climate risk in lending
-- **Fintech compliance:** KYC frameworks (PMLA, V-CIP, eKYC, CDD/EDD), adverse-action and fairness requirements
-- **Production ML:** the gap between a good notebook and a system someone can trust
-
----
 
 ## Currently
 
