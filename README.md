@@ -102,7 +102,3 @@ An XGBoost loan-default predictor with an applicant view (instant risk result, a
 - 🎯 Looking for a data science / ML internship starting **January 2027**
 
 ---
-
-## Let's connect
-
-If you're hiring interns in credit, risk or fintech ML, or just want to talk about any of the above, reach me on [LinkedIn](https://www.linkedin.com/in/pranavi-devulapalli-359ba2281/).
